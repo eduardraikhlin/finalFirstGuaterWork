@@ -13,6 +13,7 @@ int size = SizeNewStrArray(strArray);
 string[] newStrArray = CreateArrayString(size, strArray);
 PrintArray(newStrArray);
 
+
 int SizeNewStrArray(string[] array)
 {
     int size = 0;
